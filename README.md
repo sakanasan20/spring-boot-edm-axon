@@ -47,3 +47,12 @@ __Run in cmd__
 
 * [Running Axon Server in Docker - Continuing from local developer install to containerized](https://developer.axoniq.io/w/running-axon-server-in-docker-continuing-from-local-developer-install-to-containerized)
 
+## Rearch in Axon
+
+__Go to dashboard__
+* `http://localhost:8024`
+
+__Go to Search tab__
+
+__Search by aggregate ID__
+* Input `aggregateIdentifier="YOUR_ARRGREGATE_ID"` in search box
